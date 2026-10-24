@@ -1,0 +1,11 @@
+﻿# Publicações anteriores e arquivos gerados permanecem somente no computador.
+/hospedagem/
+/dist/
+/entrega/
+/tests/results/
+node_modules/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
